@@ -4,7 +4,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-09-24 ter 21:28 -->
+<!-- 2019-09-24 ter 21:29 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,15 +233,16 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org77da57c">1. Exercício 7</a></li>
+<li><a href="#org5fb663a">1. Exercício 7</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org77da57c" class="outline-2">
-<h2 id="org77da57c"><span class="section-number-2">1</span> Exercício 7</h2>
+
+<div id="outline-container-org5fb663a" class="outline-2">
+<h2 id="org5fb663a"><span class="section-number-2">1</span> Exercício 7</h2>
 <div class="outline-text-2" id="text-1">
 <p>
-Utilizando os exemplos anteriores, crie uma página (<b>cadastro<sub>usuario.php</sub></b>) que recebe as seguintes informações:
+Utilizando os exemplos anteriores, crie uma página (<b>cadastro_usuario.php</b>) que recebe as seguintes informações:
 </p>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -302,15 +303,14 @@ Crie a tabela <b>usuarios</b> para armazenar esses dados no banco <b>bdLoja</b>.
 </p>
 
 <p>
-A página <b>cadastro<sub>usuario.php</sub></b> deve enviar as informações para outra página (<b>salva<sub>usuario.php</sub></b>) que guarda os dados em uma tabela chamada <b>usuarios</b> no banco de dados bdLoja.
+A página <b>cadastro_usuario.php</b> deve enviar as informações para outra página (<b>salva_usuario.php</b>) que guarda os dados em uma tabela chamada <b>usuarios</b> no banco de dados bdLoja.
 </p>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-09-24 ter 21:28</p>
+<p class="date">Created: 2019-09-24 ter 21:29</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
-
