@@ -4,7 +4,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-09-24 ter 21:29 -->
+<!-- 2019-09-24 ter 21:32 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -233,13 +233,13 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org5fb663a">1. Exercício 7</a></li>
+<li><a href="#org3cef356">1. Exercício 7</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org5fb663a" class="outline-2">
-<h2 id="org5fb663a"><span class="section-number-2">1</span> Exercício 7</h2>
+<div id="outline-container-org3cef356" class="outline-2">
+<h2 id="org3cef356"><span class="section-number-2">1</span> Exercício 7</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Utilizando os exemplos anteriores, crie uma página (<b>cadastro_usuario.php</b>) que recebe as seguintes informações:
@@ -295,8 +295,16 @@ Utilizando os exemplos anteriores, crie uma página (<b>cadastro_usuario.php</b>)
 <tr>
 <td class="org-left">Cidade:</td>
 </tr>
+
+<tr>
+<td class="org-left">Estado:</td>
+</tr>
 </tbody>
 </table>
+
+<p>
+Utilize a api viacep.com.br para preencher o Endereço, Bairro, Cidade e Estado assim que o usuário fornecer o CEP utilizando AJAX do Javascript.
+</p>
 
 <p>
 Crie a tabela <b>usuarios</b> para armazenar esses dados no banco <b>bdLoja</b>.
@@ -309,7 +317,7 @@ A página <b>cadastro_usuario.php</b> deve enviar as informações para outra págin
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-09-24 ter 21:29</p>
+<p class="date">Created: 2019-09-24 ter 21:32</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
